@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "159601305301",
+    "firebase_url": "https://e-school-74b5c.firebaseio.com",
+    "project_id": "e-school-74b5c",
+    "storage_bucket": "e-school-74b5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159601305301:android:3e8686f377c999abf3e45c",
+        "android_client_info": {
+          "package_name": "com.example.e_school"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159601305301-dc72hivg811ukbn7hcaj9c4486g3kba1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxB15fLX5j96_4_5UUBjm0V7Uw-aZ9C1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159601305301-dc72hivg811ukbn7hcaj9c4486g3kba1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
