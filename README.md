@@ -1,7 +1,6 @@
 # e_school
 
-A new Flutter project.
-
+E-School project made from internet
 ## Getting Started
 
 This project is a starting point for a Flutter application.
